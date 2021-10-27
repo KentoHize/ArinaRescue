@@ -1,0 +1,65 @@
+{
+  "Name": "GameData",
+  "Description": null,
+  "TablesInfo": [
+    {
+      "Name": "Equipment",
+      "Columns": [
+        {
+          "Name": "ID",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": true,
+          "IsUnique": false
+        },
+        {
+          "Name": "Name",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "Effect",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        }
+      ]
+    }
+  ]
+}

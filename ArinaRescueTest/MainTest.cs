@@ -4,11 +4,12 @@ using System;
 namespace ArinaRescueTest
 {
     [TestClass]
-    public class UnitTest1
+    public class MainTest
     {
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }

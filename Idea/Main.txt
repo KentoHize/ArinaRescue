@@ -1,0 +1,17 @@
+適合的編輯項目
+
+Team
+1.Soul
+2.Character
+3.Item
+
+Map
+1.Soul
+2.Character
+3.Item
+4.Organization
+5.Friendship
+6.Region
+7.Building
+8.Development
+9.Event

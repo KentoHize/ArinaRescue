@@ -53,5 +53,9 @@
     <Content Include="Pictures\Button_S.png" />
     <Content Include="TestOutput.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FakeData\Map\" />
+    <Folder Include="FakeData\World\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

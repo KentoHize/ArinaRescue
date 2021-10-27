@@ -7,11 +7,42 @@ Team
 
 Map
 1.Soul
-2.Character
-3.Item
-4.Organization
-5.Friendship
-6.Region
-7.Building
-8.Development
-9.Event
+2.Race
+3.Character
+4.Item
+5.Organization
+6.Friendship
+7.Region
+8.Building
+9.Development
+10.Event
+
+World
+1.Race
+2.ItemPrototype
+3.Skills
+4.BuildingPrototype
+5.DevelopmentPrototype
+6.Resource
+7.Technology(ManufactureMethod)
+8.Terrain
+
+System(預設值等一些東西) (可以考慮以後再設計)
+1.Race
+2.ItemPrototype
+3.Skills
+4.BuildingPrototype
+5.DevelopmentPrototype
+6.Resource
+7.Technology(ManufactureMethod)
+8.Terrain
+
+Screen
+
+Start Games
+Load
+Option
+
+New Map
+New World
+System

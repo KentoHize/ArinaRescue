@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ArinaRescue")]
+[assembly: AssemblyTitle("ArinaRescueGame")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ArinaRescue")]
+[assembly: AssemblyProduct("ArinaRescueGame")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("931281fe-9fbc-4382-b55a-e831fc4ce1f8")]
+[assembly: Guid("6f47a599-6647-44f3-b42f-586dc22c5a31")]
 
 // Version information for an assembly consists of the following four values:
 //

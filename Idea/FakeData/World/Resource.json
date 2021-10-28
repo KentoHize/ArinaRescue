@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Name": "Stone",
+    "CName": "石頭"
+  },
+  {
+    "ID": 2,
+    "Name": "Wood",
+    "CName": "木頭"
+  },
+  {
+    "ID": 3,
+    "Name": "Iron",
+    "CName": "鐵"
+  }
+]

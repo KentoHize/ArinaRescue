@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Name": "Plain",
+    "CName": "平原"
+  },
+  {
+    "ID": 2,
+    "Name": "Hill",
+    "CName": "丘陵"
+  },
+  {
+    "ID": 3,
+    "Name": "Mountain",
+    "CName": "山脈"
+  },
+  {
+    "ID": 4,
+    "Name": "Coast",
+    "CName": "河岸"
+  },
+  {
+    "ID": 5,
+    "Name": "Sea",
+    "CName": "海"
+  },
+  {
+    "ID": 6,
+    "Name": "River",
+    "CName": "河流"
+  }
+]

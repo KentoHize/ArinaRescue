@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "Name": "Make Tools",
+    "CName": "工具製作"
+  },
+  {
+    "ID": 2,
+    "Name": "Make Fire",
+    "CName": "生火"
+  },
+  {
+    "ID": 3,
+    "Name": "Mining",
+    "CName": "採礦"
+  },
+  {
+    "ID": 4,
+    "Name": "Fishing",
+    "CName": "捕魚"
+  },
+  {
+    "ID": 5,
+    "Name": "Farming",
+    "CName": "耕作"
+  }
+]
